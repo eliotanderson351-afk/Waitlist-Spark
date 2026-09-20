@@ -2,14 +2,19 @@
 
 A conversion-first waitlist landing page with referral hooks and a simple paid upgrade path.
 
-## Monetization path
-
-Free local/demo experience first; paid hosted version can add saved projects, branding, analytics, sharing, integrations, and team features.
-
 ## Run
 
-Open `index.html` directly in a browser.
+Open `index.html` in a modern browser.
 
-## Status
+## Donation
 
-MVP concept. Pricing and revenue assumptions are experiments, not guarantees.
+Donations are optional and help fund design, testing, hosting and future improvements.
+
+| Network | Wallet |
+| --- | --- |
+| BTC | `bc1qghmvawynutlxlzs7hcszwrpmv6a8gjz0g42m5f` |
+| ETH — Ethereum | `0xB2C155514AD2c1383346715B92FcF123A1E1CA3f` |
+| USDT — TRC20 | `TLTPdYMeRfJgaTtVXcpFTF7m5vjJDXp1Uq` |
+| SOL — Solana | `iCi28FGDExvy8tuHw2MP63w26A3uQYHSD1vVqwUjkBg` |
+
+Always verify the asset and network before sending.
